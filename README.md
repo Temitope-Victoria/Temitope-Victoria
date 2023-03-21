@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Temitope-Victoria
 - 👀 I’m interested in technical writing, Cloud computing, azure, azure active directory and Microsoft Exchange.
-- 🌱 I’m currently learning cloud security.
+- 🌱 I specialize in cloud security.
 - 💞️ I’m looking to collaborate on cloud aspects, technical writing and tech stories. 
 - 📫 How to reach me - temitopev08@gmail.com
 
