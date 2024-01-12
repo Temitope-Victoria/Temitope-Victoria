@@ -9,7 +9,7 @@ I am currently building documentation with static site generators, and writing a
 I am open to entry-level technical writing roles,  learning more and being mentored. I am also available to collaborate on any project.
 </p>
 
-<p>You can reach me via <a href = "https://www.linkedin.com/in/temitope-victoria/"> LinkedIn</a>, <a href = "https://twitter.com/Victoria3665955"> Twitter </a> and <a href = "mailto:themitokpe@gmail.com"> Mail</a>.</p>
+<p>You can reach me via <a href = "https://www.linkedin.com/in/temitope-victoria/"> LinkedIn</a>, <a href = "https://twitter.com/Victoria3665955"> Twitter </a>, <a href = "https://themitokpe.wixsite.com/temitope-victoria"> Website</a> and <a href = "mailto:themitokpe@gmail.com"> Mail</a>.</p>
 
 </hr>
 <!---
